@@ -1,0 +1,15 @@
+{
+  "name": "oily",
+  "version": "1.0.0",
+  "description": "Alexa skill - IoT class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay Menon",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^3.2.0",
+    "dynasty": "^0.2.7"
+  }
+}

@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+package-lock.json
+
+/.tmp
+*.zip
+.Trashes
+ehthumbs.db
+Thumbs.db
